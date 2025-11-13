@@ -9,7 +9,7 @@
       <row>
         <button type="page" label="Información General" icon="Datos_de_Tortugas_icons/Información general.png" targetlayout="Información_General_layout"/>
         <button type="page" label="Biometrías" icon="Datos_de_Tortugas_icons/Biometrías.png" targetlayout="Biometrías_layout"/>
-        <button type="page" label="" icon="Datos_de_Tortugas_icons/nido.png" targetlayout="Localización_de_Nido_layout"/>
+        <button type="page" label="Unnamed Button" icon="Datos_de_Tortugas_icons/nido.png" targetlayout="Localización_de_Nido_layout"/>
       </row>
   </layout>
   <layout name="Hora_de_Avistamiento_layout">
@@ -75,132 +75,132 @@
         <button type="page" label="Pit Tag" icon="Datos_de_Tortugas_icons/Pit Tag.png" targetlayout="Pit_Tag_layout"/>
       </row>
       <row>
-        <button type="page" label="" icon="Datos_de_Tortugas_icons/Estado del Pedunculo.png" targetlayout="Estado_del_Pedúnculo_layout"/>
-        <button type="page" label="" icon="Datos_de_Tortugas_icons/Dirección.png" targetlayout="Dirección_al_Desovar_layout"/>
-        <button type="page" label="" icon="Datos_de_Tortugas_icons/Rasgos.png" targetlayout="Hallazgos_en_Tortuga_layout"/>
+        <button type="page" label="Estado del Pedúnculo" icon="Datos_de_Tortugas_icons/Estado del Pedunculo.png" targetlayout="Estado_del_Pedúnculo_layout"/>
+        <button type="page" label="Unnamed Button" icon="Datos_de_Tortugas_icons/Dirección.png" targetlayout="Dirección_al_Desovar_layout"/>
+        <button type="page" label="Unnamed Button" icon="Datos_de_Tortugas_icons/Rasgos.png" targetlayout="Hallazgos_en_Tortuga_layout"/>
       </row>
   </layout>
   <layout name="Pit_Tag_layout">
       <row>
-        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/No Pit Tag.png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/No Scanner.png"/>
+        <button type="tag" label="No Pit Tag" icon="Datos_de_Tortugas_icons/No Pit Tag.png"/>
+        <button type="tag" label="No Scanner" icon="Datos_de_Tortugas_icons/No Scanner.png"/>
       </row>
   </layout>
   <layout name="Estado_del_Pedúnculo_layout">
       <row>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/Completo.png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/Incompleto.png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/Completo.png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/Incompleto.png"/>
       </row>
   </layout>
   <layout name="Dirección_al_Desovar_layout">
       <row>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/Norte (2).png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/Sur (2).png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/Bosque.png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/Norte (2).png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/Sur (2).png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/Bosque.png"/>
       </row>
       <row>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/Mar.png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/Mar.png"/>
       </row>
   </layout>
   <layout name="Hallazgos_en_Tortuga_layout">
       <row>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/Marcas.png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/Cicatrices.png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/Mordeduras.png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/Marcas.png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/Cicatrices.png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/Mordeduras.png"/>
       </row>
       <row>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/Ectoparásitos.png"/>
+        <button type="tag" label="Ectoparásitos" icon="Datos_de_Tortugas_icons/Ectoparásitos.png"/>
       </row>
   </layout>
   <layout name="Localización_de_Nido_layout">
       <row>
-        <button type="page" label="" icon="Datos_de_Tortugas_icons/zactividades.png" targetlayout="Zona_de_la_Actividad_layout"/>
-        <button type="page" label="" icon="Datos_de_Tortugas_icons/ubi.png" targetlayout="Ubicación_layout"/>
-        <button type="page" label="" icon="Datos_de_Tortugas_icons/destionnido.png" targetlayout="Destino_Nido_layout"/>
+        <button type="page" label="Unnamed Button" icon="Datos_de_Tortugas_icons/zactividades.png" targetlayout="Zona_de_la_Actividad_layout"/>
+        <button type="page" label="Unnamed Button" icon="Datos_de_Tortugas_icons/ubi.png" targetlayout="Ubicación_layout"/>
+        <button type="page" label="Unnamed Button" icon="Datos_de_Tortugas_icons/destionnido.png" targetlayout="Destino_Nido_layout"/>
       </row>
       <row>
-        <button type="page" label="" icon="Datos_de_Tortugas_icons/reubicacion.png" targetlayout="Causa_de_Reubicación_layout"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/horta.png"/>
-        <button type="page" label="" icon="Datos_de_Tortugas_icons/vivero.png" targetlayout="Tipo_de_Vivero_layout"/>
+        <button type="page" label="Unnamed Button" icon="Datos_de_Tortugas_icons/reubicacion.png" targetlayout="Causa_de_Reubicación_layout"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/horta.png"/>
+        <button type="page" label="Unnamed Button" icon="Datos_de_Tortugas_icons/vivero.png" targetlayout="Tipo_de_Vivero_layout"/>
       </row>
       <row>
-        <button type="page" label="" icon="Datos_de_Tortugas_icons/huevero.png" targetlayout="Información_de_Huevos_layout"/>
-        <button type="page" label="" icon="Datos_de_Tortugas_icons/verficacion.png" targetlayout="Verificación_de_Datos_layout"/>
+        <button type="page" label="Unnamed Button" icon="Datos_de_Tortugas_icons/huevero.png" targetlayout="Información_de_Huevos_layout"/>
+        <button type="page" label="Unnamed Button" icon="Datos_de_Tortugas_icons/verficacion.png" targetlayout="Verificación_de_Datos_layout"/>
       </row>
   </layout>
   <layout name="Zona_de_la_Actividad_layout">
       <row>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/olas.png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/mareabaja.png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/mareaalta.png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/olas.png"/>
+        <button type="tag" label="Marea Baja" icon="Datos_de_Tortugas_icons/mareabaja.png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/mareaalta.png"/>
       </row>
       <row>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/vegetacion.png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/vegetacion.png"/>
       </row>
   </layout>
   <layout name="Ubicación_layout">
       <row>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/norte.png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/west (1).png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/norte.png"/>
+        <button type="tag" label="GPS W (Lat)" icon="Datos_de_Tortugas_icons/west (1).png"/>
       </row>
   </layout>
   <layout name="Destino_Nido_layout">
       <row>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/insitu.png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/robo.png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/ubiplaya.png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/insitu.png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/robo.png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/ubiplaya.png"/>
       </row>
       <row>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/vivero.png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/vivero.png"/>
       </row>
   </layout>
   <layout name="Causa_de_Reubicación_layout">
       <row>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/vegetacion.png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/olas.png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/huevero.png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/vegetacion.png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/olas.png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/huevero.png"/>
       </row>
       <row>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/erocion.png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/manto.jpg"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/erocion.png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/manto.jpg"/>
       </row>
   </layout>
   <layout name="Tipo_de_Vivero_layout">
       <row>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/insitu.png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/ubiplaya.png"/>
+        <button type="tag" label="Ex Situ (Cajas)" icon="Datos_de_Tortugas_icons/insitu.png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/ubiplaya.png"/>
       </row>
   </layout>
   <layout name="Información_de_Huevos_layout">
       <row>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/vanos.png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/normal.png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/horta.png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/vanos.png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/normal.png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/horta.png"/>
       </row>
   </layout>
   <layout name="Verificación_de_Datos_layout">
       <row>
-        <button type="page" label="" icon="Datos_de_Tortugas_icons/nidohumedo.png" targetlayout="¿Nido_Exhumedo?_layout"/>
-        <button type="page" label="" icon="Datos_de_Tortugas_icons/basedigital.png" targetlayout="¿El_Dato_se_ha_pasado_a_la_Base_Digital?_layout"/>
-        <button type="page" label="" icon="Datos_de_Tortugas_icons/revisado.png" targetlayout="¿Dato_revisado_en_la_Base_Digital?_layout"/>
+        <button type="page" label="¿Nido Exhumedo?" icon="Datos_de_Tortugas_icons/nidohumedo.png" targetlayout="¿Nido_Exhumedo?_layout"/>
+        <button type="page" label="¿El Dato se ha pasado a la Base Digital?" icon="Datos_de_Tortugas_icons/basedigital.png" targetlayout="¿El_Dato_se_ha_pasado_a_la_Base_Digital?_layout"/>
+        <button type="page" label="¿Dato revisado en la Base Digital?" icon="Datos_de_Tortugas_icons/revisado.png" targetlayout="¿Dato_revisado_en_la_Base_Digital?_layout"/>
       </row>
   </layout>
   <layout name="¿Nido_Exhumedo?_layout">
       <row>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/Si.png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/No.png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/Si.png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/No.png"/>
       </row>
   </layout>
   <layout name="¿El_Dato_se_ha_pasado_a_la_Base_Digital?_layout">
       <row>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/Si.png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/No.png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/Si.png"/>
+        <button type="tag" label="No" icon="Datos_de_Tortugas_icons/No.png"/>
       </row>
   </layout>
   <layout name="¿Dato_revisado_en_la_Base_Digital?_layout">
       <row>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/Si.png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/No.png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/Si.png"/>
+        <button type="tag" label="No" icon="Datos_de_Tortugas_icons/No.png"/>
       </row>
   </layout>
 </layouts>
