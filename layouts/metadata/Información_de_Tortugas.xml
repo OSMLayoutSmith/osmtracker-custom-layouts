@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata layout="Información_de_Tortugas">
    <option iso="en" name="English">English layout</option>
+   <option iso="es" name="Español">Español layout</option>
    <github username="OSMLayoutSmith" repo="osmtracker-custom-layouts" branch="master" />
 </metadata>
