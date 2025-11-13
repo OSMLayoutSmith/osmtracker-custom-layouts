@@ -8,15 +8,15 @@
       </row>
       <row>
         <button type="page" label="Información General" icon="Datos_de_Tortugas_icons/Información general.png" targetlayout="Información_General_layout"/>
-        <button type="page" label="" icon="Datos_de_Tortugas_icons/Biometrías.png" targetlayout="Biometrías_layout"/>
+        <button type="page" label="Biometrías" icon="Datos_de_Tortugas_icons/Biometrías.png" targetlayout="Biometrías_layout"/>
         <button type="page" label="" icon="Datos_de_Tortugas_icons/nido.png" targetlayout="Localización_de_Nido_layout"/>
       </row>
   </layout>
   <layout name="Hora_de_Avistamiento_layout">
       <row>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/Tortuga.png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/Huella de tortuga.png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/Hora de avistamiento1.png"/>
+        <button type="tag" label="Tortuga" icon="Datos_de_Tortugas_icons/Tortuga.png"/>
+        <button type="tag" label="Huella" icon="Datos_de_Tortugas_icons/Huella de tortuga.png"/>
+        <button type="tag" label="Hora de Avistamiento" icon="Datos_de_Tortugas_icons/Hora de avistamiento1.png"/>
       </row>
   </layout>
   <layout name="Actividad_de_la_Tortuga_al_Avistamiento_layout">
@@ -36,43 +36,43 @@
   </layout>
   <layout name="Información_General_layout">
       <row>
-        <button type="page" label="" icon="Datos_de_Tortugas_icons/Hora de avistamiento.png" targetlayout="Hora_de_Avistamiento_layout"/>
-        <button type="page" label="" icon="Datos_de_Tortugas_icons/Actividad de tortuga al avistamiento.png" targetlayout="Actividad_de_la_Tortuga_layout"/>
-        <button type="page" label="" icon="Datos_de_Tortugas_icons/Tipos de tortuga.png" targetlayout="Tipos_de_Especies_layout"/>
+        <button type="page" label="Hora de Avistamiento" icon="Datos_de_Tortugas_icons/Hora de avistamiento.png" targetlayout="Hora_de_Avistamiento_layout"/>
+        <button type="page" label="Actividad de la Tortuga" icon="Datos_de_Tortugas_icons/Actividad de tortuga al avistamiento.png" targetlayout="Actividad_de_la_Tortuga_layout"/>
+        <button type="page" label="Tipos de Especies" icon="Datos_de_Tortugas_icons/Tipos de tortuga.png" targetlayout="Tipos_de_Especies_layout"/>
       </row>
   </layout>
   <layout name="Tortuga_layout">
   </layout>
   <layout name="Actividad_de_la_Tortuga_layout">
       <row>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/Tortuga saliendo del agua.png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/Tortuga bañándose.png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/Tortuga excavando.png"/>
+        <button type="tag" label="Saliendo del Agua" icon="Datos_de_Tortugas_icons/Tortuga saliendo del agua.png"/>
+        <button type="tag" label="Bañándose" icon="Datos_de_Tortugas_icons/Tortuga bañándose.png"/>
+        <button type="tag" label="Excavando" icon="Datos_de_Tortugas_icons/Tortuga excavando.png"/>
       </row>
       <row>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/Tortuga desovando.png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/Tortuga camunfándose.png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/Tortuga regresando.png"/>
+        <button type="tag" label="Desovando" icon="Datos_de_Tortugas_icons/Tortuga desovando.png"/>
+        <button type="tag" label="Camuflándose" icon="Datos_de_Tortugas_icons/Tortuga camunfándose.png"/>
+        <button type="tag" label="Regresando" icon="Datos_de_Tortugas_icons/Tortuga regresando.png"/>
       </row>
       <row>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/No se vio tortuga.png"/>
+        <button type="tag" label="No se vio Tortuga" icon="Datos_de_Tortugas_icons/No se vio tortuga.png"/>
       </row>
   </layout>
   <layout name="Tipos_de_Especies_layout">
       <row>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/Tortuga Baula.png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/Tortuga Verde.png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/Tortuga Carey.png"/>
+        <button type="tag" label="Baula" icon="Datos_de_Tortugas_icons/Tortuga Baula.png"/>
+        <button type="tag" label="Verde" icon="Datos_de_Tortugas_icons/Tortuga Verde.png"/>
+        <button type="tag" label="Carey" icon="Datos_de_Tortugas_icons/Tortuga Carey.png"/>
       </row>
       <row>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/Tortuga Cabezona.png"/>
+        <button type="tag" label="Cabezona" icon="Datos_de_Tortugas_icons/Tortuga Cabezona.png"/>
       </row>
   </layout>
   <layout name="Biometrías_layout">
       <row>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/Tortuga desovando.png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/Tortuga regresando.png"/>
-        <button type="page" label="" icon="Datos_de_Tortugas_icons/Pit Tag.png" targetlayout="Pit_Tag_layout"/>
+        <button type="tag" label="Inicio de Desove" icon="Datos_de_Tortugas_icons/Tortuga desovando.png"/>
+        <button type="tag" label="Finalización de Desove" icon="Datos_de_Tortugas_icons/Tortuga regresando.png"/>
+        <button type="page" label="Pit Tag" icon="Datos_de_Tortugas_icons/Pit Tag.png" targetlayout="Pit_Tag_layout"/>
       </row>
       <row>
         <button type="page" label="" icon="Datos_de_Tortugas_icons/Estado del Pedunculo.png" targetlayout="Estado_del_Pedúnculo_layout"/>
@@ -82,7 +82,7 @@
   </layout>
   <layout name="Pit_Tag_layout">
       <row>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/No Pit Tag.png"/>
+        <button type="tag" label="Unnamed Button" icon="Datos_de_Tortugas_icons/No Pit Tag.png"/>
         <button type="tag" label="" icon="Datos_de_Tortugas_icons/No Scanner.png"/>
       </row>
   </layout>
