@@ -167,8 +167,8 @@
   </layout>
   <layout name="Tipo_de_Vivero_layout">
       <row>
-        <button type="tag" label="In Situ (Playa)" icon="Datos_de_Tortugas_icons/insitu.png"/>
-        <button type="tag" label="Ex Situ (Cajas)" icon="Datos_de_Tortugas_icons/ubiplaya.png"/>
+        <button type="tag" label="Ex Situ (Cajas)" icon="Datos_de_Tortugas_icons/insitu.png"/>
+        <button type="tag" label="In Situ (Playa)" icon="Datos_de_Tortugas_icons/ubiplaya.png"/>
       </row>
   </layout>
   <layout name="Información_de_Huevos_layout">
