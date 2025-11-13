@@ -131,7 +131,7 @@
   <layout name="Zona_de_la_Actividad_layout">
       <row>
         <button type="tag" label="Olas" icon="Datos_de_Tortugas_icons/olas.png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/mareabaja.png"/>
+        <button type="tag" label="Marea Baja" icon="Datos_de_Tortugas_icons/mareabaja.png"/>
         <button type="tag" label="Marea Alta" icon="Datos_de_Tortugas_icons/mareaalta.png"/>
       </row>
       <row>
@@ -168,7 +168,7 @@
   <layout name="Tipo_de_Vivero_layout">
       <row>
         <button type="tag" label="In Situ (Playa)" icon="Datos_de_Tortugas_icons/insitu.png"/>
-        <button type="tag" label="In Situ (Playa)" icon="Datos_de_Tortugas_icons/ubiplaya.png"/>
+        <button type="tag" label="Ex Situ (Cajas)" icon="Datos_de_Tortugas_icons/ubiplaya.png"/>
       </row>
   </layout>
   <layout name="Información_de_Huevos_layout">
@@ -194,7 +194,7 @@
   <layout name="¿El_Dato_se_ha_pasado_a_la_Base_Digital?_layout">
       <row>
         <button type="tag" label="Si" icon="Datos_de_Tortugas_icons/Si.png"/>
-        <button type="tag" label="" icon="Datos_de_Tortugas_icons/No.png"/>
+        <button type="tag" label="No" icon="Datos_de_Tortugas_icons/No.png"/>
       </row>
   </layout>
   <layout name="¿Dato_revisado_en_la_Base_Digital?_layout">
