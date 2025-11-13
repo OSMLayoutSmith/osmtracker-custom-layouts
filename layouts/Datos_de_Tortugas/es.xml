@@ -181,7 +181,7 @@
   <layout name="Verificación_de_Datos_layout">
       <row>
         <button type="page" label="¿Nido Exhumedo?" icon="Datos_de_Tortugas_icons/nidohumedo.png" targetlayout="¿Nido_Exhumedo?_layout"/>
-        <button type="page" label="¿El Dato se ha pasado a la Base Digital?" icon="Datos_de_Tortugas_icons/basedigital.png" targetlayout="¿El_Dato_se_ha_pasado_a_la_Base_Digital?_layout"/>
+        <button type="page" label="¿Dato pasado a la Base Digital?" icon="Datos_de_Tortugas_icons/basedigital.png" targetlayout="¿El_Dato_se_ha_pasado_a_la_Base_Digital?_layout"/>
         <button type="page" label="¿Dato revisado en la Base Digital?" icon="Datos_de_Tortugas_icons/revisado.png" targetlayout="¿Dato_revisado_en_la_Base_Digital?_layout"/>
       </row>
   </layout>
