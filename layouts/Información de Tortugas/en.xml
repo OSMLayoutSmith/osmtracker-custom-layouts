@@ -7,7 +7,7 @@
         <button type="picture" icon="camera_32x32" />
       </row>
       <row>
-        <button type="page" label="" icon="Información de Tortugas_icons/Información general.png" targetlayout="Información_General_layout"/>
+        <button type="page" label="Información General" icon="Información de Tortugas_icons/Información general.png" targetlayout="Información_General_layout"/>
         <button type="page" label="" icon="Información de Tortugas_icons/Biometrías.png" targetlayout="Biometrías_layout"/>
         <button type="page" label="" icon="Información de Tortugas_icons/nido.png" targetlayout="Localización_de_Nido_layout"/>
       </row>
